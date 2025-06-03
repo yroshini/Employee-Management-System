@@ -45,7 +45,7 @@ CREATE TABLE employees (
     role VARCHAR(20),
     department VARCHAR(50)
 );
-###3. JDBC Configuration
+### 3. JDBC Configuration
 Update the database credentials in ConnectionManager.java:
 
 java
@@ -55,14 +55,14 @@ String url = "jdbc:mysql://localhost:3306/employee_db";
 String username = "your_username";
 String password = "your_password";
 
-###4. Deploy the Project
+### 4. Deploy the Project
 Import project into Eclipse
 
 Add Apache Tomcat Server
 
 Run on Server: Right-click > Run As > Run on Server
 
-###5. Access Application
+### 5. Access Application
 bash
 Copy
 Edit
