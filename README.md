@@ -68,7 +68,7 @@ Copy
 Edit
 http://localhost:8080/EmployeeManagementSystem/index.jsp
 
-##👤 Author
-Your Name
-Email: your.email@example.com
-LinkedIn: your-linkedin-profile
+## 👤 Author
+Roshini Yajjavarapu
+Email: roshini.ece2024.rce@gmail.com
+LinkedIn: https://www.linkedin.com/in/roshini-y-291905253/
