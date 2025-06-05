@@ -45,7 +45,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 | Apache Tomcat  | Local server for deployment        |
 
 ---
----
 ## 📸 Screenshots
 ###  Home Page
 ![Home Page](screenshots/home.png)
