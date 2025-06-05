@@ -68,6 +68,9 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 ### ✏️ All Employee Details
 ![All Employee Details](screenshots/all-employees.png)
 
+### 🔐 SignUp Page
+![SignUp Page](screenshots/signup.png)
+
 ### 👷 View Employee
 ![View Employee](screenshots/view-employee.png)
 
