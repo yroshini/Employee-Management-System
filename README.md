@@ -12,7 +12,7 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 
 ### 🔐 Login Module
 - **Admin Login**
-  - Hardcoded credentials: `admin@cdgencorp.com` / `admin@cg`
+  - Hardcoded credentials: `admin@codegnan.com` / `password**`
   - Redirects to admin dashboard
 - **Employee Login**
   - Validated against database records
