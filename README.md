@@ -61,13 +61,13 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 ![All Employee Details](screenshots/all-employees.png)
 
 ###  View Employee
-![Delete Employee](screenshots/delete-employee.png)
+![View Employee](screenshots/view-employee.png)
 
 ### 👷 Employee Profile Page
 ![Employee Profile](screenshots/employee-profile.png)
 
-### 📄 About Us & Contact Us
-![About & Contact](screenshots/about-contact.png)
+### 📄 Contact Us
+![Contact](screenshots/contact.png)
 
 ## 🧪 How to Run
 
