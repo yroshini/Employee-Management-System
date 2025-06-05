@@ -101,4 +101,4 @@ RESTful API support
 
 ## 📞 Contact
 Created by Roshini Yajjavarapu
-Let’s connect on LinkedIn(https://www.linkedin.com/in/roshini-y-291905253/) 🤝
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/) 🤝
