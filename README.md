@@ -53,6 +53,12 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 ###  Home Page
 ![Home Page](screenshots/home.png)
 
+### 📄 About Us
+![About](screenshots/about.png)
+
+### 📄 Contact Us
+![Contact](screenshots/contact.png)
+
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
 
@@ -65,9 +71,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 ### 👷 View Employee
 ![View Employee](screenshots/view-employee.png)
 
-
-### 📄 Contact Us
-![Contact](screenshots/contact.png)
 
 ## 🧪 How to Run
 
