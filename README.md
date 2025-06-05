@@ -2,6 +2,12 @@
 
 A role-based web application built using **Java Servlets**, **JSP**, and **JDBC** for managing employee records with separate access for Admins and Employees.
 
+## 🎥 Live Demo
+
+📽️ **Watch the Project in Action:**  
+[👉 Click here to view the demo on Google Drive](https://drive.google.com/file/d/1pZjE7_44tQhilh0dX2uuQRoaIHCuqenm/view?usp=sharing)
+
+
 ## 📌 Features
 
 ### 🔐 Login Module
@@ -42,5 +48,48 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 
 ---
 
-## 📁 Folder Structure
+---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🛠️ Admin Panel – View All Employees
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### ✏️ Update Employee Details
+![Update Employee](screenshots/update-employee.png)
+
+### ❌ Delete Employee
+![Delete Employee](screenshots/delete-employee.png)
+
+### 👷 Employee Profile Page
+![Employee Profile](screenshots/employee-profile.png)
+
+### 📄 About Us & Contact Us
+![About & Contact](screenshots/about-contact.png)
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/employee-management-system.git
+2. Open the project in Eclipse IDE.
+
+3. Configure Apache Tomcat server in Eclipse.
+
+4. Import your MySQL database schema and update DB credentials in DAO files.
+
+5. Run the project on the server and access it via:
+   ```bash
+   http://localhost:8080/EmployeeManagementSystem/
+
+## 💡 Future Improvements
+Add password encryption for login
+
+Implement pagination for large employee lists
+
+Add role creation module for HR or Manager roles
+
+RESTful API support
 
