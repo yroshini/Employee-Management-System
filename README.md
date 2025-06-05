@@ -7,7 +7,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 📽️ **Watch the Project in Action:**  
 [👉 Click here to view the demo on Google Drive](https://drive.google.com/file/d/1pZjE7_44tQhilh0dX2uuQRoaIHCuqenm/view?usp=sharing)
 
-
 ## 📌 Features
 
 ### 🔐 Login Module
@@ -34,7 +33,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 - **Contact Us** – Contact information for support or inquiries
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Technology     | Description                        |
@@ -47,7 +45,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 | Apache Tomcat  | Local server for deployment        |
 
 ---
-
 ---
 ## 📸 Screenshots
 ###  Home Page
@@ -73,7 +70,6 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 
 ### 👷 View Employee
 ![View Employee](screenshots/view-employee.png)
-
 
 ## 🧪 How to Run
 
