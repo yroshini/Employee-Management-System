@@ -54,13 +54,13 @@ A role-based web application built using **Java Servlets**, **JSP**, and **JDBC*
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
 
-### 🛠️ Admin Panel – View All Employees
+### 🛠️ Admin Panel
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### ✏️ Update Employee Details
-![Update Employee](screenshots/update-employee.png)
+### ✏️ All Employee Details
+![All Employee Details](screenshots/all-employees.png)
 
-### ❌ Delete Employee
+###  View Employee
 ![Delete Employee](screenshots/delete-employee.png)
 
 ### 👷 Employee Profile Page
