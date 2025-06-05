@@ -99,3 +99,6 @@ Add role creation module for HR or Manager roles
 
 RESTful API support
 
+## 📞 Contact
+Created by Roshini Yajjavarapu
+Let’s connect on LinkedIn(https://www.linkedin.com/in/roshini-y-291905253/) 🤝
